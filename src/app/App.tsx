@@ -372,13 +372,13 @@ const WHY_ITEMS: { icon: Icon; title: string; body: string }[] = [
 
 function WhyWebsites() {
   return (
-    <Reveal id="about" className="py-20 sm:py-28 bg-[#053825]">
+    <Reveal id="about" className="py-20 sm:py-28 bg-[#e7e7db]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="max-w-2xl mb-14">
           <SectionLabel text="Why Your Business Needs a Website" />
           <motion.h2
             variants={fadeUp}
-            className="text-[#F8FAFC] text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight"
+            className="text-[#28292b] text-3xl sm:text-4xl lg:text-5xl font-extrabold leading-tight tracking-tight"
           >
             The internet is where your customers are already looking for you.
           </motion.h2>
@@ -492,7 +492,7 @@ const INDUSTRIES: { icon: Icon; name: string; text: string }[] = [
 
 function Industries() {
   return (
-    <Reveal id="industries" className="py-20 sm:py-28 bg-[#0B241B]">
+    <Reveal id="industries" className="py-20 sm:py-28 bg-[#184937]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6">
         <div className="text-center max-w-2xl mx-auto mb-14">
           <SectionLabel text="Industries We Serve" />
