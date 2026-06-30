@@ -382,7 +382,7 @@ function WhyWebsites() {
           >
             The internet is where your customers are already looking for you.
           </motion.h2>
-          <motion.p variants={fadeUp} className="text-[#A7B2AD] mt-5 text-base leading-relaxed">
+          <motion.p variants={fadeUp} className="text-[#5e5f5f] mt-5 text-base leading-relaxed">
             Whether you&apos;re a hotel, restaurant, school, or growing startup — a professional website is no
             longer optional. It&apos;s your most powerful business tool.
           </motion.p>
