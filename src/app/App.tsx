@@ -360,7 +360,7 @@ function TrustBar() {
   );
 }
 
-// ─── Why Websites ─────────────────────────────────────────────────────────────
+// ─── Why Websites Section ─────────────────────────────────────────────────────────────
 const WHY_ITEMS: { icon: Icon; title: string; body: string }[] = [
   { icon: Clock, title: "24/7 Availability", body: "Your website never sleeps. It works for you while you rest — generating leads and answering customer questions round the clock." },
   { icon: Shield, title: "Instant Credibility", body: "Customers trust businesses with professional websites. A polished web presence signals quality before you say a word." },
